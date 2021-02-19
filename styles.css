@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/*
+p {
+  color: red;
+  font-size: 20 px;
+}
+*/
+/* задание 3.4
+* {
+  color: red;
+}
+li{
+  list-style: none;
+  color: green;
+}
+*/
+
+/*задание 3.5 почему-то не работает */
+li {
+  list-style: style none;
+  color: green;
+}
+.rule {
+  list-style: upper-roman;
+  color: navy;
+}
+
+/*Задание 3.6*/
+.rule {
+  font-size: 20px;
+}
+
+.first-rule {
+  color: red;
+}
+
+.last-rules {
+  color: green;
+}
